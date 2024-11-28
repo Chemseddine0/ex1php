@@ -1,0 +1,36 @@
+.div{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.panel2{
+    float: right;
+}
+
+
+
+  
+  /* .r {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: );
+    height: 100%;
+    background-color: #f5f5f5;
+    border-left: 1px solid #353535;
+    padding: 10px;
+  } */
+   .mx{
+    margin-left: 100Px;
+   }
+   .list{
+    position: fixed;
+    float: right;
+    padding: 9px;
+    top: 3%;
+    right: 30%;
+    width: 500px;
+   }
+   .div2{
+    margin-top: 128px;
+    margin-bottom: 67px;
+}
